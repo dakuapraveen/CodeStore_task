@@ -1,4 +1,6 @@
 # CodeStore_task
 
-Heroku Deployed file
+Question 2 :- 
+
+Heroku Deployed file:- Deck of cards
 https://deckofcard.herokuapp.com/
